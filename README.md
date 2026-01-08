@@ -30,13 +30,15 @@ Some apps rely on online APIs or plugins for streaming, while others function so
 
 ## Online Streaming Clients
 
-**Summary:**
-<a href="https://github.com/koiverse/ArchiveTune">ArchiveTune</a>
+<details>
+<summary><a href="https://github.com/koiverse/ArchiveTune">ArchiveTune</a></summary>
 
 Online music player for Android.
 
-**Summary:**
-<a href="https://github.com/HemantKArya/BloomeeTunes">BloomeeTunes</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/HemantKArya/BloomeeTunes">BloomeeTunes</a></summary>
 
 A polished YouTube Music client based on YTMusic API.
 
@@ -44,20 +46,10 @@ A polished YouTube Music client based on YTMusic API.
 - Clean interface  
 - Smooth performance
 
-**Summary:**
-<a href="https://github.com/iad1tya/Echo-Music">Echo-Music</a>
+</details>
 
-A modern YouTube Music client offering ad-free streaming, offline downloads, and advanced features.
-
-**Features**
-- Ad-free experience
-- Synced lyrics with translation
-- Offline playback and downloads
-- Audio recognition for surrounding music
-- Smart recommendations
-
-**Summary:**
-<a href="https://github.com/brahmkshatriya/echo">Echo</a>
+<details>
+<summary><a href="https://github.com/brahmkshatriya/echo">Echo</a></summary>
 
 A plugin-based Android music player that supports multiple online sources via extensions.
 
@@ -66,13 +58,17 @@ A plugin-based Android music player that supports multiple online sources via ex
 - Multi-source streaming  
 - Flexible architecture
 
-**Summary:**
-<a href="https://github.com/anandnet/Harmony-Music">Harmony-Music</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/anandnet/Harmony-Music">Harmony-Music</a></summary>
 
 A multi-source music player offering a clean and simple interface.
 
-**Summary:**
-<a href="https://github.com/knighthat/Kreate">Kreate</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/knighthat/Kreate">Kreate</a></summary>
 
 A fork of RiMusic with UI and performance enhancements.
 
@@ -80,8 +76,10 @@ A fork of RiMusic with UI and performance enhancements.
 - Integrated downloader  
 - Offline playback support
 
-**Summary:**
-<a href="https://github.com/mostafaalagamy/Metrolist">Metrolist</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/mostafaalagamy/Metrolist">Metrolist</a></summary>
 
 A combination of OuterTune and Muzza, offering an organized and smooth YouTube Music experience.
 
@@ -90,8 +88,10 @@ A combination of OuterTune and Muzza, offering an organized and smooth YouTube M
 - Lyrics integration  
 - Android Auto support
 
-**Summary:**
-<a href="https://github.com/DanielSevillano/music-you">Music-You</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/DanielSevillano/music-you">Music-You</a></summary>
 
 Material You–styled YouTube Music frontend.
 
@@ -99,8 +99,10 @@ Material You–styled YouTube Music frontend.
 - Fast loading  
 - Simple, modern interface
 
-**Summary:**
-<a href="https://github.com/gokadzev/Musify">Musify</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/gokadzev/Musify">Musify</a></summary>
 
 Lightweight YouTube Music client using Piped APIs.
 
@@ -109,167 +111,141 @@ Lightweight YouTube Music client using Piped APIs.
 - No ads  
 - Minimalistic interface
 
-**Summary:**
-<a href="https://github.com/Maloy-Android/Muzza">Muzza</a>
+</details>
 
-A Material 3 YouTube Music client with ad-free playback and advanced audio features.
-
-**Features**
-- Ad-free streaming
-- Offline downloads and caching
-- Synchronized lyrics with translation
-- Audio normalization, tempo/pitch adjustment
-- Android Auto support
-
-**Summary:**
-<a href="https://github.com/namidaco/namida">Namida</a>
+<details>
+<summary><a href="https://github.com/namidaco/namida">Namida</a></summary>
 
 A powerful Android music player supporting online streaming with advanced library and queue management.
 
-**Summary:**
-<a href="https://github.com/NEVARLeVrai/N-Zik">N-Zik</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/NEVARLeVrai/N-Zik">N-Zik</a></summary>
 
 A polished fork of RiMusic.
 
-**Summary:**
-<a href="https://github.com/OuterTune/OuterTune">OuterTune</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/OuterTune/OuterTune">OuterTune</a></summary>
 
 A refined fork of InnerTune.
 
-**Summary:**
-<a href="https://github.com/samvabya/retune">retune</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/samvabya/retune">retune</a></summary>
 
 Modern Flutter-based YouTube Music player.
 
-**Summary:**
-<a href="https://github.com/fast4x/RiPlay">RiPlay</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/fast4x/RiPlay">RiPlay</a></summary>
 
 Online music player for Android.
 
-**Summary:**
-<a href="https://github.com/wambugu71/Sautify">Sautify</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/wambugu71/Sautify">Sautify</a></summary>
 
 Fast and privacy-oriented YouTube Music scraper-based client.
 
-**Summary:**
-<a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
 
 Feature-rich YouTube Music client.
 
-**Summary:**
-<a href="https://github.com/samyak2403/Simple-Tube">Simple Tube</a>
+</details>
 
-A supercharged Material 3 YouTube Music client with local playback integration.
-
-**Features**
-- Ad-free streaming and downloads
-- Advanced account sync
-- Local media playback
-- Multiple queues
-- Audio effects and Android Auto support
-
-**Summary:**
-<a href="https://github.com/KRTirtho/spotube">Spotube</a>
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
 
 Spotify client using YouTube as backend.
 
-**Summary:**
-<a href="https://github.com/25huizengek1/ViTune">ViTune</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/25huizengek1/ViTune">ViTune</a></summary>
 
 Minimal YouTube Music frontend.
 
-**Summary:**
-<a href="https://github.com/vivizzz007/vivi-music">VIVI Music</a>
-
-A Material You-inspired YouTube Music client with ad-free streaming and offline support.
-
-**Features**
-- Dynamic theming
-- Ad-free playback
-- Offline downloads
-- Synced lyrics with karaoke highlighting
-- Android Auto and QR code sharing
+</details>
 
 ---
 
 ## Offline Music Players
 
-**Summary:**
-<a href="https://github.com/iZakirSheikh/Audiofy">Audiofy</a>
+<details>
+<summary><a href="https://github.com/iZakirSheikh/Audiofy">Audiofy</a></summary>
 
 Offline music player for Android.
 
-**Summary:**
-<a href="https://github.com/OxygenCobalt/Auxio">Auxio</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/OxygenCobalt/Auxio">Auxio</a></summary>
 
 Offline music player for Android.
 
-**Summary:**
-<a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/Akanetan/Gramophone">Gramophone</a></summary>
+
+Offline music player.
+
+</details>
+
+<details>
+<summary><a href="https://github.com/mardous/BoomingMusic">BoomingMusic</a></summary>
 
 Offline (local) music player for Android.
 
-**Summary:**
-<a href="https://github.com/Akanetan/Gramophone">Gramophone</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/chr56/Phonograph_Plus">Phonograph Plus</a></summary>
 
 Offline music player.
 
-**Summary:**
-<a href="https://github.com/chr56/Phonograph_Plus">Phonograph Plus</a>
+</details>
 
-Offline music player.
-
-**Summary:**
-<a href="https://github.com/theovilardo/PixelPlay">PixelPlay</a>
+<details>
+<summary><a href="https://github.com/theovilardo/PixelPlay">PixelPlay</a></summary>
 
 Material-based local music player.
 
-**Summary:**
-<a href="https://github.com/RetroMusicPlayer/RetroMusicPlayer">Retro Music Player</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/RetroMusicPlayer/RetroMusicPlayer">Retro Music Player</a></summary>
 
 Offline music player.
 
-**Summary:**
-<a href="https://www.videolan.org/vlc/">VLC for Android</a>
-
-The mobile version of the legendary VLC media player.
-
-**Features**
-- Supports all audio and video formats
-- Network streaming capabilities
-- Audio equalizer and controls
-- Media library organization
-- Background audio playback
-
-Repository: https://code.videolan.org/videolan/vlc-android
+</details>
 
 ---
 
 # iOS Applications
 
-**Summary:**
-<a href="https://github.com/KRTirtho/spotube">Spotube</a>
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
 
 Spotify–YouTube hybrid client.
 
-**Summary:**
-<a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/dayanch96/YTMusicUltimate">YTMusicUltimate</a></summary>
 
 YouTube Music client for jailbroken iOS devices.
 
-**Summary:**
-<a href="https://www.videolan.org/vlc/">VLC for iOS</a>
-
-VLC media player for iOS devices with full format support.
-
-**Features**
-- Plays all audio and video formats
-- Network streaming (SMB, FTP, HTTP)
-- Dropbox and cloud storage integration
-- Audio and subtitle synchronization
-- Playback speed controls
-
-Repository: https://code.videolan.org/videolan/vlc-ios
+</details>
 
 ---
 
@@ -277,61 +253,60 @@ Repository: https://code.videolan.org/videolan/vlc-ios
 
 ## Online Streaming Clients (Desktop)
 
-**Summary:**
-<a href="https://github.com/staniel359/muffon">muffon</a>
+<details>
+<summary><a href="https://github.com/staniel359/muffon">muffon</a></summary>
 
 Multi-source streaming client.
 
-**Summary:**
-<a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a></summary>
 
 Desktop YouTube Music client.
 
-**Summary:**
-<a href="https://github.com/KRTirtho/spotube">Spotube</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/KRTirtho/spotube">Spotube</a></summary>
 
 Cross-platform Spotube client.
 
-**Summary:**
-<a href="https://github.com/th-ch/youtube-music">YTMDesktop</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/th-ch/youtube-music">YTMDesktop</a></summary>
 
 Electron-based YouTube Music desktop app.
 
+</details>
+
 ## Offline Music Players (Desktop)
 
-**Summary:**
-<a href="https://github.com/harmonoid/harmonoid">Harmonoid</a>
+<details>
+<summary><a href="https://github.com/harmonoid/harmonoid">Harmonoid</a></summary>
 
 Cross-platform offline music player.
 
-**Summary:**
-<a href="https://github.com/Sandakan/Nora">Nora</a>
+</details>
+
+<details>
+<summary><a href="https://github.com/Sandakan/Nora">Nora</a></summary>
 
 Minimal offline music player.
 
-**Summary:**
-<a href="https://www.videolan.org/vlc/">VLC Media Player</a>
-
-Legendary cross-platform media player that supports virtually all audio and video formats.
-
-**Features**
-- Universal format support (MP3, FLAC, AAC, OGG, and hundreds more)
-- Cross-platform (Windows, macOS, Linux, Android, iOS)
-- Advanced audio controls and equalizer
-- Playlist management and media library
-- Streaming support
-- No ads, no spyware, completely free
-
-Repository: https://github.com/videolan/vlc
+</details>
 
 ---
 
 # Web-Based Applications
 
-**Summary:**
-<a href="https://piped.video">Piped</a>
+<details>
+<summary><a href="https://piped.video">Piped</a></summary>
 
 Privacy-focused YouTube frontend.
+
+</details>
 
 ---
 
