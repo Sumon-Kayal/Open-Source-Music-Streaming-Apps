@@ -7,12 +7,12 @@ A curated and up-to-date list of open-source alternatives to Spotify, YouTube Mu
 ## Table of Contents
 - [Introduction](#introduction)
 - [Android Applications](#android-applications)
-  - Online Streaming Clients
-  - Offline Music Players
+- [Online Streaming Clients](#online-streaming-clients)
+- [Offline Music Players](#offline-music-players)
 - [iOS Applications](#ios-applications)
 - [Desktop Applications](#desktop-applications)
-  - Online Streaming Clients (Desktop)
-  - Offline Music Players (Desktop)
+- [Online Streaming Clients (Desktop)](#online-streaming-clients-desktop)
+- [Offline Music Players (Desktop)](#offline-music-players-desktop)
 - [Web-Based Applications](#web-based-applications)
 - [Additional Information](#additional-information)
 - [License](#license)
@@ -307,6 +307,81 @@ Minimal offline music player.
 Privacy-focused YouTube frontend.
 
 </details>
+
+---
+
+## Additional Information
+
+For downloading audio:
+- **yt-dlp** — https://github.com/yt-dlp/yt-dlp
+
+---
+
+## License
+
+MIT Licenseorg/videolan/vlc-ios
+
+---
+
+# Desktop Applications
+
+## Online Streaming Clients (Desktop)
+
+**Summary:**
+<a href="https://github.com/staniel359/muffon">muffon</a>
+
+Multi-source streaming client.
+
+**Summary:**
+<a href="https://github.com/maxrave-dev/SimpMusic">SimpMusic</a>
+
+Desktop YouTube Music client.
+
+**Summary:**
+<a href="https://github.com/KRTirtho/spotube">Spotube</a>
+
+Cross-platform Spotube client.
+
+**Summary:**
+<a href="https://github.com/th-ch/youtube-music">YTMDesktop</a>
+
+Electron-based YouTube Music desktop app.
+
+## Offline Music Players (Desktop)
+
+**Summary:**
+<a href="https://github.com/harmonoid/harmonoid">Harmonoid</a>
+
+Cross-platform offline music player.
+
+**Summary:**
+<a href="https://github.com/Sandakan/Nora">Nora</a>
+
+Minimal offline music player.
+
+**Summary:**
+<a href="https://www.videolan.org/vlc/">VLC Media Player</a>
+
+Legendary cross-platform media player that supports virtually all audio and video formats.
+
+**Features**
+- Universal format support (MP3, FLAC, AAC, OGG, and hundreds more)
+- Cross-platform (Windows, macOS, Linux, Android, iOS)
+- Advanced audio controls and equalizer
+- Playlist management and media library
+- Streaming support
+- No ads, no spyware, completely free
+
+Repository: https://github.com/videolan/vlc
+
+---
+
+# Web-Based Applications
+
+**Summary:**
+<a href="https://piped.video">Piped</a>
+
+Privacy-focused YouTube frontend.
 
 ---
 
